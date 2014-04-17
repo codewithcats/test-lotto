@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top_widget{ height:90px; padding:0 0 10px 0; display:block; clear:both;}
+
+/*weather widget and top banner*/
+
+.widget_block{height:70px; padding:10px 22px 10px 0; display:block;}
+.widget_block .left{height:70px; width:150px; padding:0 10px 0 0; display:block; color:#666; font-size:14px;}
+.widget_block .left .date{font-size:14px; color:#666; display:block; padding:0 0 10px 0;}
+.widget_block .left .time{font-size:20px; color:#A7A4A1; display:block; }
+.widget_block .right{height:70px; width:40px; padding:0 15px; display:block;}
+.widget_block .right .top{height:35px; width:40px; display:block;}
+.widget_block .right .temp{height:35px; width:40px; display:block; line-height:35px; font-size:18px;color:#A7A4A1;}
+/*weather widget and top banner*/
+
+/*banner size*/
+.banner_lb{width:728px; height:90px; display:block;}
+.banner_bb{width:300px; height:250px; display:block;}
+/*banner size*/
+
+.space {
+height: 10px;
+}
